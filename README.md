@@ -72,12 +72,6 @@ This simple flow helps companies:
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here_
-
-| Scan Screen | Photo Confirmation | Delivery Summary |
-|---|---|---|
-| ![scan](placeholder) | ![photo](placeholder) | ![summary](placeholder) |
-
 ---
 
 ## 🗂️ Project Structure
