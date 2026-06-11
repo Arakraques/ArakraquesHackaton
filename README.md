@@ -54,7 +54,7 @@ This simple flow helps companies:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/scanbox.git
+   git clone https://github.com/Arakraques/ArakraquesHackaton.git
    cd scanbox
    ```
 
