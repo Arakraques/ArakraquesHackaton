@@ -83,22 +83,12 @@ This simple flow helps companies:
 ## 🗂️ Project Structure
 
 ```
-Scanbox/
-├── App/
-│   └── ScanboxApp.swift
-├── Views/
-│   ├── ScanView
-│   └── ConfirmationView
-├── Components/
-├── Models/
-├── Services/
-│   ├── ScannerService
-│   └── CameraService
-└── Resources/
-    └── Assets.xcassets
+ScanBox/
+├── ScanBoxApp.swift       # App entry point
+├── ContentView.swift      # Main view / navigation root
+├── ScannerView.swift      # QR Code & barcode scanning screen
+└── Assets.xcassets        # Images, icons and colors
 ```
-
-> _Update this to match your actual folder structure_
 
 ---
 
@@ -120,4 +110,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-<p align="center">Made with ❤️ for logistics teams</p>
+<p align="center">Made with ❤️ for logistics</p>
