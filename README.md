@@ -105,3 +105,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">Made with ❤️ for logistics</p>
+
+https://docs.google.com/presentation/d/1Qdh3StNHNteWhdKx9j7lkXYT4mDCggp1NDIxDVQQh4E/edit?usp=drivesdk
