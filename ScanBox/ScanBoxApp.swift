@@ -9,6 +9,8 @@ import SwiftUI
 
 @main
 struct ScanBoxApp: App {
+    @State var currentScreen = "main"
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
